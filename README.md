@@ -1,6 +1,6 @@
 <p align="center">
   <!-- Typing SVG -->
-    <img src="https://readme-typing-svg.demolab.com/?lines=MergeJSONs&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=MergeJSON&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 This is a small program that allows you to merge two backup JSON files for Instander/MyInsta applications (https://t.me/instasmash) created by blupapilte.
