@@ -1,4 +1,4 @@
-[![# MergerJSON](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+# MergerJSON
 
 This is a small program that allows you to merge two backup JSON files for Instander/MyInsta applications (https://t.me/instasmash) created by blupapilte.
 
