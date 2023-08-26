@@ -10,7 +10,7 @@ This means that if the program reads for example "34567": [0: :false] in first f
 
 It also uses the TK library of python in order to have a pleasant and efficient graphical interface.
 
-Its is disponible in .py extention for user with python installed and in .exe estention for the user that's not pyhton installed or them who don't want to install python library in their PC.
+It is disponible in .py extention for user with python installed and in .exe estention for the user that's not pyhton installed or them who don't want to install python library in their PC.
 
 
 This program is in beta at the moment and is subject to change from time to time.
